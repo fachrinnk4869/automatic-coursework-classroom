@@ -1,0 +1,14 @@
+[project]
+name = "classroom"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-api-python-client>=2.185.0",
+    "google-auth-httplib2>=0.2.0",
+    "google-auth-oauthlib>=1.2.2",
+    "ipykernel>=7.1.0",
+    "pandas>=2.3.3",
+    "pip>=25.3",
+]
