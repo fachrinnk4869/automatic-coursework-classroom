@@ -26,3 +26,7 @@ uv run create_course.py
 
 6. refere to create_assignment.py to see the single code
 
+
+
+### Needed File
+credentials.json = creadential that obtained from Oauth Client from GCP please select Desktop Application
